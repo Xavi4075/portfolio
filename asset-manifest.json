@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.2211fbb7.css",
+    "main.js": "/portfolio/static/js/main.1b0700b8.js",
+    "static/media/Tingkat1.png": "/portfolio/static/media/Tingkat1.c091481b53a4ccba17c2.png",
+    "static/media/Tingkat3.png": "/portfolio/static/media/Tingkat3.28b6b93d75fcce5b43ac.png",
+    "static/media/Tingkat4.png": "/portfolio/static/media/Tingkat4.ff7907ce67b5426e4f45.png",
+    "static/media/Artboard2.png": "/portfolio/static/media/Artboard2.c5e254cc4561f5be69ff.png",
+    "static/media/Artboard1.png": "/portfolio/static/media/Artboard1.6844e6342cbd5345db4f.png",
+    "static/media/Aresa.png": "/portfolio/static/media/Aresa.6674fa698cc4a16f1707.png",
+    "static/media/Artboard3.png": "/portfolio/static/media/Artboard3.c2a35bab0d044849edeb.png",
+    "static/media/This-website.png": "/portfolio/static/media/This-website.4390860efd9a850bd288.png",
+    "static/media/Tingkat2.png": "/portfolio/static/media/Tingkat2.11ac8e3edb0d24dc61b0.png",
+    "static/media/profilepic.jpg": "/portfolio/static/media/profilepic.99767fb1bef27824a473.jpg",
+    "static/media/ST_main_logo.png": "/portfolio/static/media/ST_main_logo.a79a856dadbb28ec1e11.png",
+    "static/media/Aresa_logo.png": "/portfolio/static/media/Aresa_logo.1b2e057d32d9b43f05c8.png",
+    "static/media/linkedin-icon.png": "/portfolio/static/media/linkedin-icon.c0520c70ea785095b9d1.png",
+    "index.html": "/portfolio/index.html",
+    "main.2211fbb7.css.map": "/portfolio/static/css/main.2211fbb7.css.map",
+    "main.1b0700b8.js.map": "/portfolio/static/js/main.1b0700b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2211fbb7.css",
+    "static/js/main.1b0700b8.js"
+  ]
+}

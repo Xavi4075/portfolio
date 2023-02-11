@@ -24,7 +24,7 @@ const menuItem = [
 
 
 const Airplane = () => {
-    const fbx = useFBX('portfolio/assets/airplane.fbx')
+    const fbx = useFBX('/assets/airplane.fbx')
     return <primitive object={fbx} scale={0.2} rotation={[2.2, -0.3, 0]} />;
 };
 
